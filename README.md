@@ -1,6 +1,6 @@
- 👋 Hi, I’m @Sera-crypto
+👋 Hi, I’m @Sera-crypto
 🌱 I’m currently cultivating my Computer Engineering Skills
-📫 Hoping to become one day a successful Engineer and impact the world
+📫 Hoping to become a successful Engineer and impact the world
 
 <!---
 Sera-crypto/Sera-crypto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
